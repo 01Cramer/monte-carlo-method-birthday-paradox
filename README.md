@@ -11,6 +11,7 @@ I followed particular pattern of Monte Carlo method:
 
 ## Results
 According to the generated graph, it can be seen that only 23 people are needed for that probability to exceed 50%, which is equal to computations and confirms the correctness of this method.
+
 ![Wykres](https://github.com/01Cramer/Monte-Carlo-Method-Birthday-Paradox/assets/115926987/4e10010f-8221-463d-8c6d-527650aa1758)
 
 
